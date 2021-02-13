@@ -1,2 +1,3 @@
 # hello-world
-First steps in github
+
+Aqui se inicia a minha jornada na plataforma, espero compartilhar muitos momentos juntos.
